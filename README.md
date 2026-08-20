@@ -7,4 +7,10 @@
   - 使用 `bc -l` 多核心持续计算圆周率（5000~15000 位），并将结果保存至 `/tmp/pi_results/`
 
   **服务化**：集成 systemd，开机自启，一键停止/卸载（不要喵～）。
+  **食用方法**：
+  - 运行安装脚本： chmod + x install-lagdaemon.sh && sudo bash ./install-lagdaemon.sh
+  - 卸载：sudo bash ./install-lagdaemon.sh uninstall
 
+**联系**：
+  - lizy_0704@outlook.com
+  - bilibili:_星辰旅人_
