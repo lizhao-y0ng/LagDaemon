@@ -8,7 +8,7 @@
 
   **服务化**：集成 systemd，开机自启，一键停止/卸载（不要喵～）。
   **食用方法**：
-  - 运行安装脚本： chmod + x install-lagdaemon.sh && sudo bash ./install-lagdaemon.sh
+  - 运行安装脚本： chmod +x install-lagdaemon.sh && sudo bash ./install-lagdaemon.sh
   - 卸载：sudo bash ./install-lagdaemon.sh uninstall
 
 **联系**：
